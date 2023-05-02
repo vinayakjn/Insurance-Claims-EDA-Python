@@ -16,13 +16,13 @@
 
 7. Calculate the age of customers in years. Based on the age, categorize the customers according to the below criteria, 
  
-Children < 18
-
-Youth 18-30
-
-Adult 30-60
-
-Senior > 60
+   Children < 18
+   
+   Youth 18-30
+   
+   Adult 30-60
+   
+   Senior > 60
 
 8. What is the average amount claimed by the customers from various segments?
 
@@ -36,7 +36,7 @@ Senior > 60
 
 13. Which age group had the maximum fraudulent policy claims? Visualize it on a bar chart.
 
-14. Visualize the monthly trend of the total amount that has been claimed by the customers. Ensure that on the “month” axis, the month is in a chronological order not alphabetical order.
+14. Visualize the monthly trend of the total amount that has been claimed by the customers. Ensure that on the “month” axis, the month is in a chronological order not  alphabetical order.
 
 15. What is the average claim amount for gender and age categories and suitably represent the above using a facetted bar chart, one facet that represents fraudulent claims and the other for non-fraudulent claims.
 
