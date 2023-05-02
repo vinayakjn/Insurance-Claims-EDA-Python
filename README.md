@@ -12,12 +12,16 @@
 
 5. One customer can claim for insurance more than once and in each claim, multiple categories of claims can be involved. However, customer ID should remain unique.    Retain the most recent observation and delete anyduplicatedrecords in the data based on the customer ID column.
 
-6. Check for missing values and impute the missing values with an appropriate value. (mean for continuous and mode for categorical)\
+6. Check for missing values and impute the missing values with an appropriate value. (mean for continuous and mode for categorical)
 
 7. Calculate the age of customers in years. Based on the age, categorize the customers according to the below criteria, 
+ 
 Children < 18
+
 Youth 18-30
+
 Adult 30-60
+
 Senior > 60
 
 8. What is the average amount claimed by the customers from various segments?
